@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GauravSonawane18
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
+- 👀 I’m Enthusiast for GenAI, Web Devlopement, AI-ML
+- 🌱 I’m currently learning Java, SpringBoot
 - 😄 Pronouns: he/him
