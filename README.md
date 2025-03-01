@@ -1,4 +1,4 @@
-![logo]()
+<img align="center" alt="banner" width="1000" src="https://github.com/GauravSonawane18/GauravSonawane18/blob/5d8cb1637fed952875f7d02f3b45129cc5a33c21/bgr.png">
 
 <h1 align="center">Hi 👋, I'm Gaurav Sonawane</h1>
 <h3 align="center">A passionate Java and Python developer from India</h3>
