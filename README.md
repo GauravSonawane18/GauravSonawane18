@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Real-time Chat Application using java**
 
-- 🌱 I’m currently learning **SpringBoot, React, Django**
+- 🌱 I’m currently learning **SpringBoot, React**
 
 - 💬 Ask me about **Java, Python**
 
