@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="1000" src="https://github.com/GauravSonawane18/GauravSonawane18/blob/master/banner.png">
+<img align="center" alt="banner" width="1000" src="https://github.com/GauravSonawane18/GauravSonawane18/blob/main/banner.png">
 
 <h1 align="center">Hi 👋, I'm Gaurav Sonawane</h1>
 <h3 align="center">A passionate developer from India</h3>
